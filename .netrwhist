@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/jward/Ikos/Operations'
+let g:netrw_dirhist_5='/home/jward/Ikos/ikos-products/platform'
+let g:netrw_dirhist_4='/home/jward/Ikos/Operations'
+let g:netrw_dirhist_3='/home/jward/Ikos/ikos-products'
+let g:netrw_dirhist_2='/home/jward/.config/nvim/modules'
+let g:netrw_dirhist_1='/home/jward/Ikos/Operations'
+let g:netrw_dirhist_0='/home/jward/Ikos/ikos-products'
+let g:netrw_dirhist_9='/home/jward/Ikos/ikos-products/maestro'
+let g:netrw_dirhist_8='/home/jward/Ikos/ikos-products'
+let g:netrw_dirhist_7='/home/jward/Ikos/ikos-products/mailroom/receivers/smsreceiver/azure'
